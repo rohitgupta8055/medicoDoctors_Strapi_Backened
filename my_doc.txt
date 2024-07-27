@@ -1,0 +1,10 @@
+after connecting to database and login as admin in strapi
+we use plugin called cloudnay to store images on cloud  
+connect media libraray to cloudnary
+
+by adding which is written in cloudinary documentation 
+and api keys and secret keys to env now in strapi we add our data,pic,photos 
+
+now in strapi we add the add ad we can fetch data through api by allowing what he gets what permission he have by using http://localhost:1337/api/sliders
+http://localhost:1337/api/sliders this will only fetch name but no media
+if u want to fetch all the write http://localhost:1337/api/sliders?populate=*
