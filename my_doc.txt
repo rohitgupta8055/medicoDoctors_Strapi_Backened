@@ -8,3 +8,7 @@ and api keys and secret keys to env now in strapi we add our data,pic,photos
 now in strapi we add the add ad we can fetch data through api by allowing what he gets what permission he have by using http://localhost:1337/api/sliders
 http://localhost:1337/api/sliders this will only fetch name but no media
 if u want to fetch all the write http://localhost:1337/api/sliders?populate=*
+
+
+
+ npm run develop
